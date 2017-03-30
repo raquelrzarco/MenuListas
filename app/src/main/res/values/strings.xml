@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuListas</string>
+    <string name="camisas">Camisas</string>
+    <string name="pantalones">Pantalones</string>
+    <string name="zapatos">Zapatos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
